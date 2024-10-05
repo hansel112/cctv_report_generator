@@ -34,7 +34,7 @@ Assuming the script is in the current directory and the images are in a subdirec
 ├── face_encoding_generator.py
 └── employee_images
     ├── john_doe.jpg
-    ├── jane_doe.jpg
+    ├── jane_smith.jpg
     └── other_employee.jpg
 
 	Result
